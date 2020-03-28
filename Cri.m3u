@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1,Lcn
+https://tvalcn.akamaized.net/hls/live/2013847/tvalcn01/high_1080p/high_1080p.m3u8
+#EXTINF:-1,lcn
+https://tvalcn.akamaized.net/hls/live/2013847/tvalcn01/master.m3u8?__nn__=5529128749001&hdnea=st=1584898200~exp=1584901800~acl=/*~hmac=08ddd983482fde58fbe520649a827d86e401e7fe29ba02e9077a53e009922252
+#EXTINF:-1,TVA
+https://tvalive.akamaized.net/hls/live/2012413/tva01/master.m3u8?__nn__=5529128749001&hdnea=st=1584898200~exp=1584901800~acl=/*~hmac=08ddd983482fde58fbe520649a827d86e401e7fe29ba02e9077a53e009922252
+#EXTINF:-1,CTV news
+https://capi.9c9media.com/destinations/ctvnews_web/platforms/desktop/contents/68596/contentpackages/440602/manifest.m3u8?action=reference
+#EXTINF:-1,RC
+https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8?hdnts=st=1584900015~exp=1584900135~acl=/hls/live/696614/cancbftprem*~hmac=cc36063e24d6740e50c4b5e3eb1d1c0810f5d516ae9e5c6b5aebda6408c8968c
+#EXTINF:-1,RDI
+https://srclive-lh.akamaihd.net/i/web207_1@364878/master.m3u8?set-akamai-hls-revision=4
+#EXTINF:-1,CNN
+https://peer5.ustv.to/CNN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMi8yMDIwIDY6MTg6MDIgUE0maGFzaF92YWx1ZT01SVBZK2pINHEwUkhwRG5WWTIwaytRPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
+#EXTINF:-1,SCIENCE 
+https://peer3.ustv.to/Science/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMi8yMDIwIDY6MTg6NTkgUE0maGFzaF92YWx1ZT11bHZJL2VPVVFtd1U4cHpub2gyMGFBPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
+#EXTINF:-1,DESTINATION AMERICA
+https://peer2.ustv.to/DA/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMi8yMDIwIDY6MTk6MTcgUE0maGFzaF92YWx1ZT1id29JTzBuNGtDWEwyZ1JGNi9MSCt3PT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
+#EXTINF:-1,TRAVEL
+https://peer2.ustv.to/Travel/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMi8yMDIwIDY6MjE6NTQgUE0maGFzaF92YWx1ZT1hVmZUU1B6amJkMmlvTUd6YzlndFN3PT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
+#EXTINF:-1,ID
+https://peer2.ustv.to/ID/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMi8yMDIwIDY6MjM6MDYgUE0maGFzaF92YWx1ZT1iek9zb3hDQ3FpK29HemV2MlluekNBPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
+#EXTINF:-1,HISTORY
+https://peer2.ustv.to/History/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMi8yMDIwIDY6MjQ6MDUgUE0maGFzaF92YWx1ZT1ueENKOUJRa0NaQzU0ZGRLc0RUdVZBPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
+#EXTINF:-1,CNN2
+https://peer3.ustv.to/CNN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMi8yMDIwIDY6MjQ6NTUgUE0maGFzaF92YWx1ZT1DYnhaMFBicElzbDZWVkVWUzA4TzVnPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
+#EXTINF:-1,CBC Montreal HD
+https://cbclivedai3-i.akamaihd.net/hls/live/566976/event2/CBMT/master5.m3u8
+#EXTINF:-1,ICI Tele Montreal
+https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_5000.m3u8
+#EXTINF:-1,History 2
+http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
+#EXTINF:-1,US Map
+https://youtu.be/pBa4QIwzVhI
+#EXTINF:-1,Worldwide Map
+https://youtu.be/x6UiR9Rs6dA
