@@ -12,7 +12,7 @@ https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8?hdnts
 #EXTINF:-1,RDI
 https://srclive-lh.akamaihd.net/i/web207_1@364878/master.m3u8?set-akamai-hls-revision=4
 #EXTINF:-1,CNN
-https://peer5.ustv.to/CNN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMi8yMDIwIDY6MTg6MDIgUE0maGFzaF92YWx1ZT01SVBZK2pINHEwUkhwRG5WWTIwaytRPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
+https://peer3.ustv.to/CNN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yOC8yMDIwIDEyOjU4OjQ3IFBNJmhhc2hfdmFsdWU9STgyVDB5SnZ3bHpnVUozRXp3dUV5UT09JnZhbGlkbWludXRlcz0yNDAmaWQ9MA==
 #EXTINF:-1,SCIENCE 
 https://peer3.ustv.to/Science/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMi8yMDIwIDY6MTg6NTkgUE0maGFzaF92YWx1ZT11bHZJL2VPVVFtd1U4cHpub2gyMGFBPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
 #EXTINF:-1,DESTINATION AMERICA
